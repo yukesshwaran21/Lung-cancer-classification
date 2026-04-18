@@ -1,4 +1,4 @@
-# 🧠 Lung Cancer Classification using Hybrid Deep Learning + ML
+# 🧠 Lung Cancer Classification using Hybrid Model
 
 ## 📌 Overview
 This project presents a hybrid framework combining CNN (EfficientNet) with Machine Learning (SVM, LR, RF) to classify lung cancer from CT scans.
